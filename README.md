@@ -1,7 +1,4 @@
-# Manel Yousfi - Data Scientist
-
-
-Bonjour ! Je suis **Manel Yousfi**, Data Scientist passionnée par le développement et l'industrialisation de solutions IA end-to-end : NLP, computer vision, deep learning et MLOps.  
+# Data Scientist
 
 ---
 
