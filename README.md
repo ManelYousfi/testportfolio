@@ -18,7 +18,14 @@ Bonjour ! Je suis **Manel Yousfi**, Data Scientist passionnée par le développe
 ## À propos de moi
 Data Scientist avec + 2 ans d’expérience en développement de solutions IA complètes, du traitement de données à la production. Expériences marquantes : maintenance prédictive chez RATP et automatisation avec LLMs chez MERMEC.  
 
+---
 
+## Formation
+
+**Master Traitement de Données & IA**  
+Centrale Méditerranée & AMU, Marseille, France (2023-2025)
+
+---
 
 ## Expériences professionnelles
 
@@ -53,18 +60,7 @@ Data Scientist avec + 2 ans d’expérience en développement de solutions IA co
 | MLOps | MLflow, Docker, CI/CD, monitoring, industrialisation | 85% |
 | Codage & Data | Python, R, SQL & NoSQL | 95% |
 
----
 
-## Formation
 
-**Master Traitement de Données & IA**  
-Centrale Méditerranée & AMU, Marseille, France (2023-2025)
 
----
-
-## Contact
-
-- **Email :** manelyousfipro@gmail.com  
-- **LinkedIn :** [manelyousfi](https://www.linkedin.com/in/manelyousfi)  
-- **GitHub :** [manelyousfi](https://github.com/manelyousfi)  
 
