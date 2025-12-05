@@ -7,7 +7,8 @@ Bonjour ! Je suis **Manel Yousfi**, Data Scientist passionnée par le développe
 
 ## Me suivre
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/manelyousfi](https://www.linkedin.com/in/manel-yousfi-/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/manelyousfi](https://www.linkedin.com/in/manel-yousfi-/))
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manelyousfi)  
   
 
