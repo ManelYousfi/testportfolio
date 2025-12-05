@@ -1,59 +1,68 @@
-# ------------------------------
-# Configuration de base
-# ------------------------------
-title: "Manel Yousfi - Data Scientist"
-email: "manelyousfipro@gmail.com"
-description: "Data scientist passionnée par le développement et l'industrialisation de solutions IA end-to-end : NLP, computer vision, deep learning et MLOps."
-baseurl: "" # laisse vide si le repo est sur https://username.github.io
-url: "https://manelyousfi.github.io"
-
-# ------------------------------
-# Thème
-# ------------------------------
-theme: jekyll-theme-cayman
-
-# ------------------------------
-# Réseaux sociaux
-# ------------------------------
-social:
-  github: "https://github.com/ManelYousfi"
-  linkedin: "https://www.linkedin.com/in/manel-yousfi-/"
+# Manel Yousfi - Data Scientist
 
 
-# ------------------------------
-# Navigation
-# ------------------------------
-navbar:
-  - title: "Accueil"
-    url: "/"
-  - title: "Projets"
-    url: "/projects"
-  - title: "CV"
-    url: "/cv"
-  - title: "Contact"
-    url: "/contact"
+Bonjour ! Je suis **Manel Yousfi**, Data Scientist passionnée par le développement et l'industrialisation de solutions IA end-to-end : NLP, computer vision, deep learning et MLOps.  
 
-# ------------------------------
-# Paramètres des posts
-# ------------------------------
-paginate: 5
-paginate_path: "/page:num/"
+---
 
-# ------------------------------
-# Markdown & plugins
-# ------------------------------
-markdown: kramdown
-kramdown:
-  input: GFM
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+## Me suivre
 
-# ------------------------------
-# Options supplémentaires
-# ------------------------------
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manelyousfi)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manelyousfi)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ton_compte)  
+
+---
+
+## À propos de moi
+Data Scientist avec + 2 ans d’expérience en développement de solutions IA complètes, du traitement de données à la production. Expériences marquantes : maintenance prédictive chez RATP et automatisation avec LLMs chez MERMEC.  
+
+
+
+## Expériences professionnelles
+
+| Poste | Entreprise | Période | Réalisations clés |
+|-------|-----------|--------|-----------------|
+| **Data Scientist & Maintenance Prédictive** | RATP, Paris | 09/2023 - 09/2025 | - Détection d’anomalies via ML → réduction de 25% des coûts de maintenance<br>- Modèles prédictifs et Deep Learning multimodal (95% précision)<br>- Pipelines ML end-to-end avec SQL, Python<br>- Optimisation AutoML +20% performance |
+| **Data Science & Machine Learning** | MERMEC, Marseille | 02/2023 – 09/2023 | - Automatisation de traitement Python et intégration LLM / génération d’images (+20% rapidité, +30% pertinence)<br>- Extraction de features pour classification supervisée |
+| **Stage Data Science** | Bejaïa, Algérie | 09/2021 – 09/2022 | - Développement de modèles ML (Random Forest, XGBoost, SVM, LSTM, Autoencoders)<br>- Pipeline ML end-to-end (MLflow, Docker, FastAPI)<br>- Implémentation RAG (+20% pertinence) |
+
+**Environnement technique :** Python, Pandas, NumPy, scikit-learn, PyTorch, Streamlit, Docker, MLflow, SQL, AWS, Git, OpenCV, FAISS, FastAPI, Sentence-BERT
+
+---
+
+## Projets
+
+- **Maintenance Prédictive (RATP)** : Modèles de détection d'anomalies et prédiction Deep Learning multimodal (95% précision)  
+- **Automatisation avec LLM (MERMEC)** : Applications intégrant LLM et génération d’images (+20% rapidité, +30% pertinence)  
+- **Système RAG (Stage Algérie)** : Pipeline ML avec RAG pour réponses internes (+20% pertinence)  
+
+*Lien GitHub pour chaque projet si disponible*
+
+---
+
+## Compétences
+
+| Domaine | Compétences | Niveau |
+|---------|------------|-------|
+| Modèles prédictifs | Régression, classification, détection d’anomalies, optimisation statistique et algorithmiques | 95% |
+| Préparation & pipelines de données | Collecte, nettoyage, structuration, feature engineering | 90% |
+| AutoML & IA | Optimisation de modèles, expérimentation, amélioration continue | 85% |
+| Machine/Deep Learning | scikit-learn, PyTorch, modèles multimodaux | 90% |
+| MLOps | MLflow, Docker, CI/CD, monitoring, industrialisation | 85% |
+| Codage & Data | Python, R, SQL & NoSQL | 95% |
+
+---
+
+## Formation
+
+**Master Traitement de Données & IA**  
+Centrale Méditerranée & AMU, Marseille, France (2023-2025)
+
+---
+
+## Contact
+
+- **Email :** manelyousfipro@gmail.com  
+- **LinkedIn :** [manelyousfi](https://www.linkedin.com/in/manelyousfi)  
+- **GitHub :** [manelyousfi](https://github.com/manelyousfi)  
+
